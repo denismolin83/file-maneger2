@@ -9,5 +9,8 @@
         <module name="file-maneger2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="file-maneger2" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
